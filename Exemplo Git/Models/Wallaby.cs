@@ -25,7 +25,7 @@ namespace Exemplo_Git.Models
                 return "Pequeno";
             }
 
-            throw new Exception("Essa exceção tá aqui para o VS parar de reclamar!");
+            throw new Exception("Essa exceção tá aqui para o VS parar de reclamar! Allan");
         }
     }
 }
